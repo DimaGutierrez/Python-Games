@@ -1,4 +1,4 @@
-# Simple Pong in Python 3 for Beginners
+# Simple Pong in Python 3
 # By DimaGutierrez
 
 import turtle
