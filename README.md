@@ -6,4 +6,4 @@ This app does need a settings file to run - see `pong.py`
 <br>
 ## Enjoy the game!
 <br>
-
+## I will upload new versions, Attention!
