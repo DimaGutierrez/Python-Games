@@ -6,3 +6,5 @@ SimpleGame
 This app does need a settings file to run - see `pong.py`
 <br>
 Multiplayer game! Enjoy!
+<br>
+
