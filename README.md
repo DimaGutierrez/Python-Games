@@ -4,7 +4,7 @@
 ## Settings
 This app does need a settings file to run - see `pong.py`
 <br>
-##Controls
+## Controls
 <br>
 Player A  ↑ <kbd>W</kbd> ↓ <kbd>S</kbd>
 <br>
