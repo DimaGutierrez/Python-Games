@@ -14,10 +14,10 @@ Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
 ## Enjoy the game!
 [![Python](https://img.shields.io/badge/Python-0095D5?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
 ## I will upload new versions, Attention!
-<br><br>
+<br>
 ## Portfolio:
 [![Wix](https://img.shields.io/badge/wix🔥🔥🔥-DIMA>>JOBBOX-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
-
+<br>
 ## Contacto:
 [![Email](https://img.shields.io/badge/diegorgutierrez@live.com.ar-email_personal-FA7343?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](mailto:diegorgutierrez@live.com.ar)
 </br>
