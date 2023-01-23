@@ -13,7 +13,6 @@ Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
 
 ## Enjoy the game! 
 [![Python](https://img.shields.io/badge/Python-0095D5?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
-## I will upload new versions, Attention!
 <br>
 
 ## Portfolio:
