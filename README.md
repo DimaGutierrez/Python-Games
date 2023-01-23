@@ -2,7 +2,7 @@
 
 ![https://github.com/dimagutierrez](https://raw.githubusercontent.com/DimaGutierrez/Python-Game-Pong/main/python_pong.png)
 ## Settings
-This app does need a settings file to run - see `pong.py`
+Run on CMD > `pong.py`
 <br>
 ## Controls
 <br>
