@@ -15,6 +15,7 @@ Player A  ↑ <kbd>W</kbd> ↓ <kbd>S</kbd>
 <br>
 Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
 <br>
+<br>
 
 ## Python "Turtle Race" Game
 
@@ -22,7 +23,7 @@ Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
 ## Settings
 Run > `turtle race.py`
 <br>
-
+<br>
 
 ## Enjoy the games! 
 [![Python](https://img.shields.io/badge/Python-0095D5?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
