@@ -1,3 +1,6 @@
+# Turtle Race in Python 3
+# By DimaGutierrez
+
 from turtle import *
 from random import *
 import turtle
