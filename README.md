@@ -3,7 +3,7 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 
 `import turtle`
 
-## Python "Pong" Game
+## Python "Pong" Game 🏓
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_pong.png)
 ## Settings
@@ -16,7 +16,7 @@ Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
 <br>
 <br>
 
-## Python "Turtle Race"
+## Python "Turtle Race" 🏁
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_race.png)
 ## Settings
