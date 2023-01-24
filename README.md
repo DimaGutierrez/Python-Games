@@ -3,16 +3,16 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 
 `import turtle`
 
-## Python "tetris" Game 🕹️
+## Python "tetris" Game 🧩
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_tetris.png)
 ## Settings
 Run > `tetris_turtle.py`
 <br>
 ## тетрис controls
-Move  (← <kbd>A</kbd> ) (→ <kbd>D</kbd> )
+🕹️Move  (← <kbd>A</kbd> ) (→ <kbd>D</kbd> )
 <br>
-Rotate = <kbd>space</kbd> 
+🕹️Rotate = <kbd>space</kbd> 
 <br>
 <br>
 
@@ -22,10 +22,10 @@ Rotate = <kbd>space</kbd>
 ## Settings
 Run > `pong.py`
 <br>
-## Controls
-Player A  ↑ <kbd>W</kbd> ↓ <kbd>S</kbd>
+## Controls 
+🕹️Player A  ↑ <kbd>W</kbd> ↓ <kbd>S</kbd>
 <br>
-Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
+🕹️Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
 <br>
 <br>
 
