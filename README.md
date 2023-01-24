@@ -1,6 +1,6 @@
 ## Python Game Pong
 
-![https://github.com/dimagutierrez](https://raw.githubusercontent.com/DimaGutierrez/Python-Game-Pong/main/python_pong.png)
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Game-Pong/blob/main/python_pong.png)
 ## Settings
 Run on CMD > `pong.py`
 <br>
