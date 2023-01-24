@@ -10,7 +10,6 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 Run > `pong.py`
 <br>
 ## Controls
-<br>
 Player A  ↑ <kbd>W</kbd> ↓ <kbd>S</kbd>
 <br>
 Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
