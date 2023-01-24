@@ -3,6 +3,19 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 
 `import turtle`
 
+## Python "tetris" Game 🕹️
+
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_tetris.png)
+## Settings
+Run > `tetris_turtle.py`
+<br>
+## тетрис Controls
+Move  ← <kbd>A</kbd> → <kbd>D</kbd>
+<br>
+Rotate = <kbd>space</kbd> 
+<br>
+<br>
+
 ## Python "Pong" Game 🏓
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_pong.png)
