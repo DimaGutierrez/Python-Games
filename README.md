@@ -16,7 +16,7 @@ Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
 <br>
 <br>
 
-## Python "Turtle Race" Game
+## Python "Turtle Race"
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_race.png)
 ## Settings
