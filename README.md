@@ -37,6 +37,27 @@ Run > `turtle race.py`
 <br>
 <br>
 
+## Python "tetris" One block version 🧩
+
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_tetris_oneb.png)
+## Settings 💻
+Run > `tetris_one_block.py`
+<br>
+## тетрис controls 🎮
+🕹️Move  (← <kbd>◄</kbd> ) (→ <kbd>►</kbd> )
+<br>
+## This simple version has a score counter
+```
+score_count = 0
+score = turtle.Turtle()
+score.color('red')
+score.up()
+score.hideturtle()
+score.goto(60,-300)
+score.write('Score: 0', align='center', font=('Courier', 24, 'normal'))
+```
+<br>
+
 ## Enjoy the games! 🐢
 [![Python](https://img.shields.io/badge/Python-0095D5?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
 <br>
