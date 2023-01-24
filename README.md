@@ -23,9 +23,9 @@ Run > `tetris_turtle.py`
 Run > `pong.py`
 <br>
 ## Controls 
-🕹️Player A  ↑ <kbd>W</kbd> ↓ <kbd>S</kbd>
+🕹️Player A  (↑ <kbd>W</kbd> ) (↓ <kbd>S</kbd> )
 <br>
-🕹️Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
+🕹️Player B  (↑ <kbd>▲</kbd> ) (↓ <kbd>▼</kbd> )
 <br>
 <br>
 
