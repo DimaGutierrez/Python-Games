@@ -7,7 +7,7 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_pong.png)
 ## Settings
-Run on CMD > `pong.py`
+Run > `pong.py`
 <br>
 ## Controls
 <br>
@@ -20,7 +20,7 @@ Player B  ↑ <kbd>▲</kbd> ↓ <kbd>▼</kbd>
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_race.png)
 ## Settings
-Run on CMD > `turtle race.py`
+Run > `turtle race.py`
 <br>
 
 ## Enjoy the games! 
