@@ -10,7 +10,7 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 Run > `tetris_turtle.py`
 <br>
 ## тетрис Controls
-Move  (← <kbd>A</kbd>) (→ <kbd>D</kbd>)
+Move  (← <kbd>A</kbd> ) (→ <kbd>D</kbd> )
 <br>
 Rotate = <kbd>space</kbd> 
 <br>
