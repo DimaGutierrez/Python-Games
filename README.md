@@ -5,6 +5,7 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 
 ## Python "tetris" Game 🧩
 Легендарная игра от создателя Алексей Пажитнов!
+<br>
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_tetris.png)
 ## Settings 💻
 Run > `tetris_turtle.py`
