@@ -6,10 +6,10 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 ## Python "tetris" Game 🧩
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_tetris.png)
-## Settings
+## Settings 💻
 Run > `tetris_turtle.py`
 <br>
-## тетрис controls
+## тетрис controls 🎮
 🕹️Move  (← <kbd>A</kbd> ) (→ <kbd>D</kbd> )
 <br>
 🕹️Rotate = <kbd>space</kbd> 
@@ -19,20 +19,20 @@ Run > `tetris_turtle.py`
 ## Python "Pong" Game 🏓
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_pong.png)
-## Settings
+## Settings 💻
 Run > `pong.py`
 <br>
-## Controls 
-🕹️Player A  (↑ <kbd>W</kbd> ) (↓ <kbd>S</kbd> )
+## Controls 🎮
+🕹️Player A   (↑ <kbd>W</kbd> ) (↓ <kbd>S</kbd> )
 <br>
-🕹️Player B  (↑ <kbd>▲</kbd> ) (↓ <kbd>▼</kbd> )
+🕹️Player B   (↑ <kbd>▲</kbd> ) (↓ <kbd>▼</kbd> )
 <br>
 <br>
 
 ## Python "Turtle Race" 🏁
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_race.png)
-## Settings
+## Settings 💻
 Run > `turtle race.py`
 <br>
 <br>
