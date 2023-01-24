@@ -1,4 +1,4 @@
-## Python Games with turtle graphics
+## Python Games with turtle graphics 🐢
 Turtle graphics is a popular way for introducing programming to kids. It was part of the original Logo programming language developed by Wally Feurzeig, Seymour Papert and Cynthia Solomon in 1967
 
 `import turtle`
@@ -24,7 +24,7 @@ Run > `turtle race.py`
 <br>
 <br>
 
-## Enjoy the games! 
+## Enjoy the games! 🐢
 [![Python](https://img.shields.io/badge/Python-0095D5?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
 <br>
 
