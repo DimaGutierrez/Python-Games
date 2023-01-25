@@ -42,6 +42,12 @@ Run > `pong.py`
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_turtle_race.png)
 ## Settings 💻
 Run > `turtle race.py`
+```Ruby
+from turtle import *
+from random import *
+import turtle
+import time
+```
 <br>
 <br>
 
