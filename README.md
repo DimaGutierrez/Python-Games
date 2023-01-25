@@ -5,7 +5,7 @@ Install on terminal
 ```Ruby
 C:\Users\Pavilio.Notebook>pip install turtle
 ```
-
+Go to proyect!
 ```Ruby
 import turtle
 import time
