@@ -34,7 +34,14 @@ Run > `pong.py`
 🕹️Player A   (↑ <kbd>W</kbd> ) (↓ <kbd>S</kbd> )
 <br>
 🕹️Player B   (↑ <kbd>▲</kbd> ) (↓ <kbd>▼</kbd> )
-<br>
+```Ruby
+# Keyboard bindings
+wn.listen()
+wn.onkeypress(paddle_a_up, "w")
+wn.onkeypress(paddle_a_down, "s")
+wn.onkeypress(paddle_b_up, "Up")
+wn.onkeypress(paddle_b_down, "Down")
+```
 <br>
 
 ## Python "Turtle Race" 🏁
@@ -48,7 +55,6 @@ from random import *
 import turtle
 import time
 ```
-<br>
 <br>
 
 ## Python "tetris" One block version 🟨
