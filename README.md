@@ -22,7 +22,6 @@ wn.onkeypress(lambda: shape.move_right(grid), "d")
 wn.onkeypress(lambda: shape.rotate(grid), "space")
 ```
 <br>
-<br>
 
 ## Python "Pong" Game 🏓
 
