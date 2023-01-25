@@ -7,7 +7,7 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 Легендарная игра от создателя Алексей Пажитнов!
 <br>
 
-![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_tetris.png)
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_turtle_tetris.png)
 ## Settings 💻
 Run > `tetris_turtle.py`
 <br>
@@ -20,7 +20,7 @@ Run > `tetris_turtle.py`
 
 ## Python "Pong" Game 🏓
 
-![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_pong.png)
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_pong.png)
 ## Settings 💻
 Run > `pong.py`
 <br>
@@ -33,7 +33,7 @@ Run > `pong.py`
 
 ## Python "Turtle Race" 🏁
 
-![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_race.png)
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_turtle_race.png)
 ## Settings 💻
 Run > `turtle race.py`
 <br>
@@ -41,7 +41,7 @@ Run > `turtle race.py`
 
 ## Python "tetris" One block version 🧩
 
-![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/python_turtle_tetris_oneb.png)
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_turtle_tetris_oneb.png)
 ## Settings 💻
 Run > `tetris_one_block.py`
 <br>
