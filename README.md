@@ -54,7 +54,7 @@ Run > `tetris_one_block.py`
 🕹️Move  (← <kbd>◄</kbd> ) (→ <kbd>►</kbd> )
 <br>
 ## This simple version has a score counter
-```
+```Ruby
 score_count = 0
 score = turtle.Turtle()
 score.color('red')
