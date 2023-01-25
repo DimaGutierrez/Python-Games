@@ -15,7 +15,7 @@ Run > `tetris_turtle.py`
 🕹️Move  (← <kbd>A</kbd> ) (→ <kbd>D</kbd> )
 <br>
 🕹️Rotate = <kbd>space</kbd> 
-```
+```Ruby
 wn.listen()
 wn.onkeypress(lambda: shape.move_left(grid), "a")
 wn.onkeypress(lambda: shape.move_right(grid), "d")
