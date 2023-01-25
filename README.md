@@ -3,7 +3,7 @@ Turtle graphics is a popular way for introducing programming to kids. It was par
 
 `import turtle`
 
-## Python "tetris" Game 🧩
+## Python "tetris" Game 🏆
 Легендарная игра от создателя Алексей Пажитнов!
 <br>
 
