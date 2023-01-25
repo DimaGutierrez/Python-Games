@@ -44,7 +44,7 @@ Run > `turtle race.py`
 <br>
 <br>
 
-## Python "tetris" One block version 🧩
+## Python "tetris" One block version 🟨
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_turtle_tetris_oneb.png)
 ## Settings 💻
