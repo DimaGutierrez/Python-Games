@@ -41,7 +41,7 @@ Run > `pong.py`
 <br>
 🕹️Player B   (↑ <kbd>▲</kbd> ) (↓ <kbd>▼</kbd> )
 ```Ruby
-# Keyboard bindings
+# Keyboard
 wn.listen()
 wn.onkeypress(paddle_a_up, "w")
 wn.onkeypress(paddle_a_down, "s")
