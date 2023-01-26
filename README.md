@@ -23,6 +23,7 @@ Run > `tetris_turtle.py`
 <br>
 🕹️Rotate = <kbd>space</kbd> 
 ```Ruby
+# Keyboard
 wn.listen()
 wn.onkeypress(lambda: shape.move_left(grid), "a")
 wn.onkeypress(lambda: shape.move_right(grid), "d")
