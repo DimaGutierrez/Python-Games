@@ -31,7 +31,7 @@ wn.onkeypress(lambda: shape.rotate(grid), "space")
 ```
 <br>
 
-## Goku Jumper 🏆
+## Goku Jumper 🐵
 other methods, gravity
 <br>
 
