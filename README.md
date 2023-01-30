@@ -111,7 +111,7 @@ score.write('Score: 0', align='center', font=('Courier', 24, 'normal'))
 <br>
 
 ## Goku Jumper 🐵
-goku is tired, he can only jump. Other methods, gravity
+goku is tired, he can only jump. Other methods, gravity "TEST METHODS" Boring game
 <br>
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/goku_jumper.png)
