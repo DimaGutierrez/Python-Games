@@ -31,6 +31,30 @@ wn.onkeypress(lambda: shape.rotate(grid), "space")
 ```
 <br>
 
+## Sidescrolling shooting 🛸
+many functions available here, movements and statistics, graphic animations!
+<br>
+
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/scrolling_shooter.jpg)
+## Settings 💻
+Run > `side_shooter_turtle.py`
+the py file and the images must be in the same folder
+<br>
+## controls 🎮
+🕹️Move  (← <kbd>◄</kbd> ) (→ <kbd>►</kbd> ) (↑ <kbd>▲</kbd> ) (↓ <kbd>▼</kbd> )
+<br>
+🕹️Shooting = <kbd>space</kbd> 
+```Ruby
+# Keyboard binding
+wn.listen()
+wn.onkeypress(quit_game, "q")
+wn.onkeypress(player.up, "Up")
+wn.onkeypress(player.down, "Down")
+wn.onkeypress(player.move_left, "Left")
+wn.onkeypress(player.move_right, "Right")
+wn.onkeypress(fire_missile, "space")
+```
+<br>
 ## Python "Pong" Game 🏓
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_pong.png)
