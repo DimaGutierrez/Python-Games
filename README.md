@@ -101,6 +101,22 @@ score.write('Score: 0', align='center', font=('Courier', 24, 'normal'))
 ```
 <br>
 
+## Surfer Jumper! 🏄‍♂️
+same goku base, another interface, when you change the theme the same action may be more attractive, ok this is very basic and primitive
+<br>
+
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/surf_jumper.jpg)
+## Settings 💻
+Run > `Surfer_Jumper.py`
+the py file and the images must be in the same folder
+<br>
+## control 🎮
+🕹️Jump = <kbd>space</kbd> 
+```Ruby
+gravity = -0.5
+```
+<br>
+
 ## Enjoy the games! 🐍
 [![Python](https://img.shields.io/badge/Python-0095D5?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
 <br>
