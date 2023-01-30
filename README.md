@@ -31,6 +31,22 @@ wn.onkeypress(lambda: shape.rotate(grid), "space")
 ```
 <br>
 
+## Goku Jumper 🏆
+other methods, gravity
+<br>
+
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/goku_jumper.png)
+## Settings 💻
+Run > `GokuJumper.py`
+the py file and the images must be in the same folder
+<br>
+## control 🎮
+🕹️Jump = <kbd>space</kbd> 
+```Ruby
+gravity = -0.5
+```
+<br>
+
 ## Python "Pong" Game 🏓
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_pong.png)
