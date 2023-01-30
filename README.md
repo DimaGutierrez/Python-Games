@@ -55,6 +55,7 @@ wn.onkeypress(player.move_right, "Right")
 wn.onkeypress(fire_missile, "space")
 ```
 <br>
+
 ## Python "Pong" Game 🏓
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_pong.png)
