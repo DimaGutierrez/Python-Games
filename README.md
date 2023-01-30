@@ -32,7 +32,7 @@ wn.onkeypress(lambda: shape.rotate(grid), "space")
 <br>
 
 ## Goku Jumper 🐵
-other methods, gravity
+goku is tired, he can only jump. Other methods, gravity
 <br>
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/goku_jumper.png)
