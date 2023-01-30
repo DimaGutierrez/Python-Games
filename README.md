@@ -31,22 +31,6 @@ wn.onkeypress(lambda: shape.rotate(grid), "space")
 ```
 <br>
 
-## Goku Jumper 🐵
-goku is tired, he can only jump. Other methods, gravity
-<br>
-
-![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/goku_jumper.png)
-## Settings 💻
-Run > `GokuJumper.py`
-the py file and the images must be in the same folder
-<br>
-## control 🎮
-🕹️Jump = <kbd>space</kbd> 
-```Ruby
-gravity = -0.5
-```
-<br>
-
 ## Python "Pong" Game 🏓
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_pong.png)
@@ -98,6 +82,22 @@ score.up()
 score.hideturtle()
 score.goto(60,-300)
 score.write('Score: 0', align='center', font=('Courier', 24, 'normal'))
+```
+<br>
+
+## Goku Jumper 🐵
+goku is tired, he can only jump. Other methods, gravity
+<br>
+
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/goku_jumper.png)
+## Settings 💻
+Run > `GokuJumper.py`
+the py file and the images must be in the same folder
+<br>
+## control 🎮
+🕹️Jump = <kbd>space</kbd> 
+```Ruby
+gravity = -0.5
 ```
 <br>
 
