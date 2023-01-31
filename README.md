@@ -72,6 +72,7 @@ def fire_missile():
 <br>
 
 # ChernoBird ☢️
+FlappyBird 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_chernobird.png)
 ## Settings 💻
 Run > `cherno_bird.py`
