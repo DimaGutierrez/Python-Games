@@ -1,4 +1,4 @@
-## 🐍Python Games with turtle graphics 🐢
+# 🐍Python Games with turtle graphics 🐢
 Turtle graphics is a popular way for introducing programming to kids. It was part of the original Logo programming language developed by Wally Feurzeig, Seymour Papert and Cynthia Solomon in 1967
 
 Install on terminal
@@ -10,7 +10,7 @@ Go to proyect!
 import turtle
 import time
 ```
-## Python "tetris" Game 🏆
+# Python "tetris" Game 🏆
 Легендарная игра от создателя Алексей Пажитнов!
 <br>
 
@@ -31,7 +31,7 @@ wn.onkeypress(lambda: shape.rotate(grid), "space")
 ```
 <br>
 
-## Space Shooting 🛸...
+# Space Shooting 🛸...
 many functions available here, movements and statistics, graphic animations, sound efects!
 ```Ruby
 import turtle
@@ -59,7 +59,7 @@ wn.onkeypress(player.move_left, "Left")
 wn.onkeypress(player.move_right, "Right")
 wn.onkeypress(fire_missile, "space")
 ```
-# Sound Efects / misile, explossion
+## Sound Efects / misile, explossion
 ```Ruby
 def fire_missile():
     for missile in missiles:
@@ -70,7 +70,7 @@ def fire_missile():
 ```
 <br>
 
-## Python "Pong" Game 🏓
+# Python "Pong" Game 🏓
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_pong.png)
 ## Settings 💻
@@ -103,7 +103,7 @@ import time
 ```
 <br>
 
-## Python "tetris" One block version 🟨
+# Python "tetris" One block version 🟨
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_turtle_tetris_oneb.png)
 ## Settings 💻
@@ -124,7 +124,7 @@ score.write('Score: 0', align='center', font=('Courier', 24, 'normal'))
 ```
 <br>
 
-## Goku Jumper 🐵
+# Goku Jumper 🐵
 goku is tired, he can only jump. Other methods, gravity "TEST METHODS" Boring game
 <br>
 
@@ -140,7 +140,7 @@ gravity = -0.5
 ```
 <br>
 
-## Surfer Jumper! 🏄‍♂️
+# Surfer Jumper! 🏄‍♂️
 same goku base, another interface, when you change the theme the same action may be more attractive, ok this is very basic and primitive
 <br>
 
