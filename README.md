@@ -90,7 +90,7 @@ wn.onkeypress(paddle_b_down, "Down")
 ```
 <br>
 
-## Python "Turtle Race" 🏁
+# Python "Turtle Race" 🏁
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_turtle_race.png)
 ## Settings 💻
