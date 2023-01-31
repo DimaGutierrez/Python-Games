@@ -9,6 +9,7 @@ Go to proyects!
 ```Ruby
 import turtle
 import time
+import random
 import winsound
 ```
 # Python "tetris" Game 🏆
