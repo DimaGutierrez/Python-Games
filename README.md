@@ -140,7 +140,7 @@ score.write('Score: 0', align='center', font=('Courier', 24, 'normal'))
 # Goku Jumper 🐵
 goku is tired, he can only jump. Other methods, gravity "TEST METHODS" Boring game
 <br>
-
+Theme and graphic editions Dima Gutierrez
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/goku_jumper.png)
 ## Settings 💻
 Run > `GokuJumper.py`
@@ -156,7 +156,7 @@ gravity = -0.5
 # Surfer Jumper! 🏄‍♂️🦈
 same goku base, another interface, when you change the theme the same action may be more attractive, ok this is very basic and primitive
 <br>
-
+Theme and graphic editions Dima Gutierrez
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/surf_jumper.jpg)
 ## Settings 💻
 Run > `Surfer_Jumper.py`
