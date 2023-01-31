@@ -31,13 +31,18 @@ wn.onkeypress(lambda: shape.rotate(grid), "space")
 ```
 <br>
 
-## Sidescrolling shooting 🛸
-many functions available here, movements and statistics, graphic animations!
+## Space Shooting 🛸...
+many functions available here, movements and statistics, graphic animations, sound efects!
+```Ruby
+import turtle
+import random
+import winsound
+```
 <br>
 
-![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/scrolling_shooter.jpg)
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/Space_shooting.jpg)
 ## Settings 💻
-Run > `side_shooter_turtle.py`
+Run > `space_shooting_turtle.py`
 the py file and the images must be in the same folder
 <br>
 ## controls 🎮
@@ -53,6 +58,15 @@ wn.onkeypress(player.down, "Down")
 wn.onkeypress(player.move_left, "Left")
 wn.onkeypress(player.move_right, "Right")
 wn.onkeypress(fire_missile, "space")
+```
+# Sound Efectos / misile, explossion
+```Ruby
+def fire_missile():
+    for missile in missiles:
+        if missile.state == "ready":
+            missile.fire()
+            winsound.PlaySound("SS_missile.wav",winsound.SND_ASYNC)
+            break
 ```
 <br>
 
