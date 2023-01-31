@@ -77,7 +77,7 @@ Run > `cherno_bird.py`
 the py file and the images must be in the same folder
 <br>
 ## controls 🎮
-🕹️Fly = <kbd>space</kbd> 
+🕹️Fly = <kbd>space</kbd> маленькая птичка летит
 <br>
 
 # Python "Pong" Game 🏓
