@@ -59,7 +59,7 @@ wn.onkeypress(player.move_left, "Left")
 wn.onkeypress(player.move_right, "Right")
 wn.onkeypress(fire_missile, "space")
 ```
-# Sound Efectos / misile, explossion
+# Sound Efects / misile, explossion
 ```Ruby
 def fire_missile():
     for missile in missiles:
