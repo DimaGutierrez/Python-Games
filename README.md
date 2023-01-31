@@ -5,10 +5,11 @@ Install on terminal
 ```
 C:\Users\Pavilio.Notebook>pip install turtle
 ```
-Go to proyect!
+Go to proyects!
 ```Ruby
 import turtle
 import time
+import winsound
 ```
 # Python "tetris" Game 🏆
 Легендарная игра от создателя Алексей Пажитнов!
