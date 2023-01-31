@@ -78,6 +78,7 @@ def fire_missile():
 Run > `cherno_bird.py`
 the py file and the images must be in the same folder
 <br>
+Theme & graphic design Dima Gutierrez
 ## controls 🎮
 🕹️Fly press <kbd>space</kbd>  маленькая птичка летит 🐤
 <br>
