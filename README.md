@@ -70,6 +70,16 @@ def fire_missile():
 ```
 <br>
 
+# ChernoBird ☢️
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_chernobird.png)
+## Settings 💻
+Run > `cherno_bird.py`
+the py file and the images must be in the same folder
+<br>
+## controls 🎮
+🕹️Fly = <kbd>space</kbd> 
+<br>
+
 # Python "Pong" Game 🏓
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_pong.png)
