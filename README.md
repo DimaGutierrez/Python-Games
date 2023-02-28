@@ -5,7 +5,7 @@ Install on terminal
 C:\Users\Pavilio.Notebook>pip install turtle
 ```
 Go to proyects!
-```Ruby
+```python
 import turtle
 import time
 import random
@@ -23,7 +23,7 @@ Run > `tetris_turtle.py`
 🕹️Move  (← <kbd>A</kbd> ) (→ <kbd>D</kbd> )
 <br>
 🕹️Rotate = <kbd>space</kbd> 
-```Ruby
+```python
 # Keyboard
 wn.listen()
 wn.onkeypress(lambda: shape.move_left(grid), "a")
@@ -34,7 +34,7 @@ wn.onkeypress(lambda: shape.rotate(grid), "space")
 
 # Space Shooting 🛸...
 many functions available here, movements and statistics, graphic animations, sound efects!
-```Ruby
+```python
 import turtle
 import random
 import winsound
@@ -50,7 +50,7 @@ the py file and the images must be in the same folder
 🕹️Move  (← <kbd>◄</kbd> ) (→ <kbd>►</kbd> ) (↑ <kbd>▲</kbd> ) (↓ <kbd>▼</kbd> )
 <br>
 🕹️Shooting = <kbd>space</kbd> 
-```Ruby
+```python
 # Keyboard binding
 wn.listen()
 wn.onkeypress(quit_game, "q")
@@ -93,7 +93,7 @@ Run > `pong.py`
 🕹️Player A   (↑ <kbd>W</kbd> ) (↓ <kbd>S</kbd> )
 <br>
 🕹️Player B   (↑ <kbd>▲</kbd> ) (↓ <kbd>▼</kbd> )
-```Ruby
+```python
 # Keyboard
 wn.listen()
 wn.onkeypress(paddle_a_up, "w")
@@ -108,7 +108,7 @@ wn.onkeypress(paddle_b_down, "Down")
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-Games/blob/main/img/python_turtle_race.png)
 ## Settings 💻
 Run > `turtle race.py`
-```Ruby
+```python
 from turtle import *
 from random import *
 import turtle
@@ -126,7 +126,7 @@ Run > `tetris_one_block.py`
 🕹️Move  (← <kbd>◄</kbd> ) (→ <kbd>►</kbd> )
 <br>
 ## This simple version has a score counter
-```Ruby
+```python
 score_count = 0
 score = turtle.Turtle()
 score.color('red')
