@@ -123,7 +123,7 @@ import time
 Run > `tetris_one_block.py`
 <br>
 ## тетрис controls 🎮
-🕹️Move  (← <kbd>◄</kbd> ) (→ <kbd>►</kbd> )
+🕹️Move  ( ← <kbd>◄</kbd> ) ( → <kbd>►</kbd> )
 <br>
 ## This simple version has a score counter
 ```python
