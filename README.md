@@ -2,7 +2,7 @@
 
 Install on terminal
 ```
-C:\Users\Pavilio.Notebook>pip install turtle
+C:\....\....>pip install turtle
 ```
 Go to proyects!
 ```python
