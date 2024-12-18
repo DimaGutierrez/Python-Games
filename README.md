@@ -145,4 +145,5 @@ Visit > discussions/
 
 ```python
 Visit discussion for more ideas
+https://github.com/DimaGutierrez/Python-Games/discussions
 ```
