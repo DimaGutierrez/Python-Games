@@ -148,3 +148,5 @@ Visit discussion for more ideas & star my repo!
 https://github.com/DimaGutierrez/Python-Games/discussions
 ```
 ![galaxy brain](https://github.com/user-attachments/assets/e4fabfee-b97e-40f2-9df2-89a4e5a17e8c)
+
+<br></br>
