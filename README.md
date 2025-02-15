@@ -1,6 +1,6 @@
 # 🐍Python Games with turtle graphics 🐢
 
-Install on terminal
+Install on terminal 👾
 ```
 C:\....\....>pip install turtle
 ```
